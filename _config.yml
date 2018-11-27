@@ -1,5 +1,5 @@
-title: Thoughts, digests and links
-author: viktor bezhenar
+title: Vik's thoughts, digests and links
+author: Viktor Bezhenar
 email: viktor.bezhenar@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Viktor Bezhenar is an experienced project management professional that likes to write about
@@ -12,6 +12,7 @@ github_username:  viktorbezhenar
 
 header_pages:
 - about.md
+- bookmarks.html
 
 plugins:
  - jekyll-feed
