@@ -1,1 +1,18 @@
+title: Thoughts, digests and links
+author: viktor bezhenar
+email: viktor.bezhenar@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Viktor Bezhenar is an experienced project management professional that likes to write about
+  software development processes and similar stuff
+
 theme: minima
+
+twitter_username: vityawassup
+github_username:  viktorbezhenar
+
+header_pages:
+- about.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
