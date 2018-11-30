@@ -11,9 +11,9 @@ twitter_username: vityawassup
 github_username:  viktorbezhenar
 
 header_pages:
-- title: Linkodrom
-  url: /bookmarks.html
-- about.md
+
+ - Bookmarks.md
+ - about.md
 
 plugins:
  - jekyll-feed
