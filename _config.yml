@@ -12,7 +12,8 @@ github_username:  viktorbezhenar
 
 header_pages:
 - about.md
-- bookmarks.html
+- title: bookmarks
+   url: bookmarks.html
 
 plugins:
  - jekyll-feed
