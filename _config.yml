@@ -11,8 +11,8 @@ twitter_username: vityawassup
 github_username:  viktorbezhenar
 
 header_pages:
-- about.md
-- bookmarks.html
+ - Bookmarks.md
+ - about.md
 
 plugins:
  - jekyll-feed
