@@ -2,6 +2,7 @@
 layout: page
 title: Linkodrom
 permalink: /linkodrom/
+url: /bookmarks.html
 ---
 
 Мой линкодром
