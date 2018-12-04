@@ -66,5 +66,6 @@ title: "Эволюция моих мобильных девайсов"
 <h3> Nokia 6800 </h3>
 
 
-[Bounce]: https://en.wikipedia.org/wiki/Bounce_(video_game_series)
-[Nokia 3310]: https://www.gsmarena.com/nokia_3310-192.php
+[Bounce](https://en.wikipedia.org/wiki/Bounce_(video_game_series))
+
+[Nokia 3310](https://www.gsmarena.com/nokia_3310-192.php)
