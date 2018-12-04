@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "twitter_username:"
 theme: minima
 
 twitter_username: vityawassup
-github_username:  viktorbezhenar
-linkedin_username: viktor-bezhenar-baaa7657
-facebook_username: viktor.bezhenar.5
+github_username: viktorbezhenar
+#linkedin_username: viktor-bezhenar-baaa7657
+#facebook_username: viktor.bezhenar.5
 
 header_pages:
 
