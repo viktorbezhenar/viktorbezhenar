@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is first attempts to build something minimalistic
+Реинкарнация моего блога, который будет пополняться недельными дайджестами с интересными материалами из сети. Подборка наполняется за счет моего ТГ-канала: https://t.me/vik_bookmarks
+
+Самое достойное попадет в мой линкодром: viktorbezhenar.in.ua/bookmarks.in.ua
+
+По любым вопросам - пишите, контакты ниже :)
