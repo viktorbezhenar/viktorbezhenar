@@ -7,20 +7,20 @@ comments: true
 
 Что публиковалось на t.me/linkoftheday в феврале:
 
-Интервью с Юрием Быковым: https://t.co/tX4Vny6vJd
+*Интервью с Юрием Быковым: https://t.co/tX4Vny6vJd
 
-Задачи по программированию, с комментариями и проверкой ментором: https://exercism.io 
+*Задачи по программированию, с комментариями и проверкой ментором: https://exercism.io 
 
-Репост от Serg1us'a в тему предыдущей строчки:
+*Репост от Serg1us'a в тему предыдущей строчки:
   - https://www.hackerrank.com/ - Задачки по программированию, разные направления, есть ответы и дух соревнований;
 
   - https://kaggle.com - Предложения заданий от компаний data science и machine learning. Можно зацепить неплохие предложения по работе;
 
   - https://codewars.com - Сервис напоминает видеоигру, прокачка умений в программировании.  
   
-Оцениваем разработчика на основе объективных данных - https://habr.com/ru/company/oleg-bunin/blog/417411/
+*Оцениваем разработчика на основе объективных данных - https://habr.com/ru/company/oleg-bunin/blog/417411/
   
-Новость про генетически-модифицированных младенцев долгожителей: https://forklog.com/razrabotchik-bitcoin-core-nameren-sozdavat-geneticheski-modifitsirovannyh-mladentsev-dolgozhitelej/
+*Новость про генетически-модифицированных младенцев долгожителей: https://forklog.com/razrabotchik-bitcoin-core-nameren-sozdavat-geneticheski-modifitsirovannyh-mladentsev-dolgozhitelej/
   
 Трогательная история мальчика - инвалида в реальной жизни, и лидера виртуального клана в WoW: https://www.bbc.com/news/disability-47064773
  
