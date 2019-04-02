@@ -7,17 +7,17 @@ comments: true
 
 #### Что публиковалось на t.me/linkoftheday в марте:
 
-Киев, самые интересные места в гайде 34travel: <https://34travel.me/post/kiev?fbclid=IwAR3wsUly8e5J4IwLe7Z1B6TqYbR7B-wtJr3caVopONglJmCX6HuEgn-5WSk>
+Киев, самые интересные места в гайде 34travel: <https://t.me/linkoftheday/24>
 
-3700 долларов в месяц - цена аренды за однушку в Сан-Франциско: <https://www.cnet.com/news/san-franciscos-outrageous-rent-hits-a-new-peak-highest-in-the-us/>
+3700 долларов в месяц - цена аренды за однушку в Сан-Франциско: <https://t.me/linkoftheday/25>
 
-Фаундер Gumroad рефлексирует о своем пути в построении компании-единорога: <https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7>
+Фаундер Gumroad рефлексирует о своем пути в построении компании-единорога: <https://t.me/linkoftheday/29>
   
-Всё, что вам нужно знать об ИИ — за несколько минут: <https://habr.com/post/416889/>
+Всё, что вам нужно знать об ИИ — за несколько минут: <https://t.me/linkoftheday/31>
 
-А что, если я скажу, что пассивный доход, это не единственный способ получения финансовой независимости? <https://danielvassallo.com/financial-independence/>
+А что, если я скажу, что пассивный доход, это не единственный способ получения финансовой независимости? <https://t.me/linkoftheday/33>
 
-Cэм Алтман, экс-президент акслератора Y Combinator о том, как добиться успеха: <https://vc.ru/flood/57022-kak-dostich-uspeha-sovety-ot-prezidenta-y-combinator>
+Cэм Алтман, экс-президент акслератора Y Combinator о том, как добиться успеха: <https://t.me/linkoftheday/34>
 
 Конспект-выжимка главного из статей Less Wrong в четырех частях:
 <http://sergeykorol.ru/blog/lesswrong-1/>
@@ -25,9 +25,9 @@ Cэм Алтман, экс-президент акслератора Y Combinato
 <http://sergeykorol.ru/blog/lesswrong-3/>
 <http://sergeykorol.ru/blog/lesswrong-4/>
 
-Фаундер Gumroad рассказывает о своем опыте переезда в провинциальный городок в Юте из Сан-Франциско: <https://medium.com/@shl/from-bubble-to-bubble-21d86195e178>
+Фаундер Gumroad рассказывает о своем опыте переезда в провинциальный городок в Юте из Сан-Франциско: <https://t.me/linkoftheday/36>
 
-Картинка, наглядно демонстрирующая вымирание среднего класса в Чикаго: <https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b>
+Картинка, наглядно демонстрирующая вымирание среднего класса в Чикаго: <https://t.me/linkoftheday/37>
 
 Интервью об обратной стороне длительных путешествий, текст где показывается изнанка романтизированных историй: <samokatus.ru/2019/03/roma-edze>
 
@@ -39,7 +39,7 @@ Benedict Evans проводит аналогии проблем Facebook и от
 
 Опасную ситуация с водными ресурсами Украины: <https://nv.ua/ukraine/events/mutnye-vody-reki-ukrainy-okazalis-na-grani-katastroficheskogo-zagryazneniya-i-vysyhaniya-50010957.html>
 
-История про неудачный опыт работы некоторых сотрудников российской IT компании на Бали: <https://www.the-village.ru/village/business/wrong/343933-rabota-na-bali?utm_source=facebook.com&utm_medium=social&utm_campaign=ves-fevral-chast-rossiyskoy-kompanii-f>
+История про неудачный опыт работы некоторых сотрудников российской IT компании на Бали: <https://t.me/linkoftheday/44>
 
 Disney купил киностудию 21st Century Fox. Что нужно об этом знать: <https://t.me/linkoftheday/45>
 
