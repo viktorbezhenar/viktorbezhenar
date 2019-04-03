@@ -5,7 +5,7 @@ tags:   telegram, links, bookmarks
 comments: true
 ---
 
-#### Что публиковалось на <t.me/linkoftheday> в марте:
+#### Что публиковалось на <https://t.me/linkoftheday> в марте:
 
 Киев, самые интересные места в гайде 34travel: <https://t.me/linkoftheday/24>
 
