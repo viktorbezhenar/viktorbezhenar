@@ -5,7 +5,7 @@ tags:   telegram, links, bookmarks
 comments: true
 ---
 
-#### Что публиковалось на t.me/linkoftheday в феврале:
+#### Что публиковалось на <https://t.me/linkoftheday> в феврале:
 
 Интервью с Юрием Быковым: <https://t.co/tX4Vny6vJd>
 
