@@ -11,11 +11,11 @@ comments: true
 
 Сучавский водопад. Река Сучава начинается высоко в буковинских горах Румынии, проходит по границе Украины и Румынии и в некоторых местах, как на фото ниже образует красивые образования в виде водопадов.
 
-![watefall](https://github.com/viktorbezhenar/viktorbezhenar/blob/master/pics/20190614_124840.jpg)
+<img src="20190614_124840.jpg">
 
 На подходе к горе Томнатик, высота 1565 м, на вершине которой расположена заброшенная база советской ПВО — "Памир".
 
-![наподходе](https://github.com/viktorbezhenar/viktorbezhenar/blob/master/pics/napodxode.jpg)
+<img src="napodxode.jpg">
 
 ![памир](https://lh3.googleusercontent.com/9SVRypq-75BUdgxoXPPWov3Fy3oTEoVhUS6xm0OmHtWYgkYP-Ngi75vem9HJm3_EeX-6RKJOHhkmRymow3hKcDbcraJsY_mGyyTBUBFxcAqTUy91vSYT8eOxTHGTZ5GMo0Vzo2QM3UcRgKBNPMlspec1C0xhPh_ZzWY6rYdmbm9HZqHvfgtBT9LlqjRYBxEgIauNeQo9AAye5AtQNaTfNEzmHvf0Qrqi5mxjPrwwzZmjW0jXFzK9yC5AsJFWG-83jpbA4MmIxl3DDTOWRbFzQIlDq5lXQ_g5MALYKLzoWWt8iE-BLAymI9BkqxCV1GxbmHL25Ek9bV6U_UqXXuy1Rj-zSmq7UgDNJQyANSPwsVh_583VDs_Vpt66ufjIYRqPCrL6HgTbrnFHE_zMDv-5AySAyHcrS1oyjXBoY4K4BvyEJl7UXWU1c7L54blcM5iMUtCT33kxrPdXa3L88qUcOdo5Xdu5Jd_XXn7HAlEPP2d_VikrhjrSUwd-UkeCZojTyuvz8wJgAH2EgYrqENPRq2yNECHEM3MXoMjFyMrk6U4kE_1qgLK8BOwmDzpY2E0dnvwCdR-3FPjPf69Rp0LjgIqY3wE9L1SHhIMtkY3XJBVvqQ4LIRxhkp6L5lO9FKYBDO3V93k4TJI1oNwc3BIRqj7mGBx7FZIi=w1950-h1462-no)
 
