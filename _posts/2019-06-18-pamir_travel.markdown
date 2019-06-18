@@ -29,7 +29,7 @@ comments: true
 
 Мы находимся в Путыльском районе, Черновицкой области (кстати, он является самым высокогорным районом Украины), после смт. Селятын, нужно проехать село Шепот, после чего цивилизация заканчивается, и больше на пути не встречается. А это 20 км дороги, с подьемом высоты в 700 метров.
 
-![romania](https://lh3.googleusercontent.com/rCPFwN7LTfj7EvYlY8L8KKJn-sYsddehjETwJdtjI6zIwoBEvmZ8nvBSTUZ7UIinhhrZnOsTaC4H-WnyRkH9iERGb6Sg_IvIpI4qi7o2mq52NTHiWluR5qCDcrbaftbfhn65MJsKbihMYjxHo7YX3EUmSjhNs-wu6QpgGpsEKO2fgEOunKTlcVvQWZPf0b4Cl99Vo1NHss8E6JHb58giSyBXY2UtTSrDzK8S7gDU2tueoaUZNFfiN9HuzEezkQxFOVjon_a6Fgfm3iqybPdvoON1jE6Xa1kdW7vAVUccq9qwJS3PvO6Lazo3GLBbJKGPdhmEwCm0d7kSaeDt4FfTcFZExE-xFVnohi_eAiw0LY2Vnx7RGAa_Ev1ozoSeU_OVL0fVTVo6Y1cjmxZeWEaRpwQqf5ZxWQN1_kZwysqpTMPs3mOnUTvDAZEmnUrEFjIH_EdjEiWGH67AgvLkgtyPuSZZk4kQI5FuLprl5Eur4bWpuH4OD_7OENHjGBOTe5OhLvXUmUBhAH8er17ko_6pcR5SowV5MpleS447ZH2EtzZoWqtdWgqWLnbpSXlxrM9sFbq06LmMoCDIW-1-cFNwAk0rXkhx0sNohkoNIF4FWG88nxyqqnBH9nCg4U5CxN2F-o_8DQvgDZGds6iSE36-vCNlzCMZ9wTR=w1950-h1462-no)
+![romania](https://github.com/viktorbezhenar/viktorbezhenar/blob/master/pics/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
 
 Интересным опытом была прогулка к местным сыроварам, говорившем на каком-то удивительном гуцульско-украинском диалекте. Приобрели у них чудесного овечьего сыра, свежего коровьего и овечьего молока. Рассчитывались пластиковыми бутылками водки, которую здесь именуют "фльешкой"
 
