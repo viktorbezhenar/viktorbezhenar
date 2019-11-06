@@ -5,7 +5,7 @@ tags:   links, bookmarks
 comments: true
 ---
 
-#### Все PM-дайджесты моего авторства на одной странице:
+#### Все PM-дайджесты моего авторства на одной странице
 
 Октябрь 2019, Digest 21: <https://dou.ua/lenta/digests/pm-digest-21/>
 
