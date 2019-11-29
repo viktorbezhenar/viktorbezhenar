@@ -7,6 +7,8 @@ comments: true
 
 #### Все PM-дайджесты моего авторства на одной странице
 
+Ноябрь 2019, Digest 22: <https://dou.ua/lenta/digests/pm-digest-22/>
+
 Октябрь 2019, Digest 21: <https://dou.ua/lenta/digests/pm-digest-21/>
 
 Сентябрь 2019, Digest 20: <https://dou.ua/lenta/digests/pm-digest-20/>
