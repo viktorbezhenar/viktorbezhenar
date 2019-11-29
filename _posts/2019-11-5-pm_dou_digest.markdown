@@ -53,7 +53,8 @@ comments: true
 
 Апрель 2017, Digest 0: <https://dou.ua/lenta/digests/pm-digest-0/>
 
-Когда-то я писал QA дайджесты:
+
+**Когда-то я писал QA дайджесты:**
 
 Июнь 2015, QA Digest 8: <https://dou.ua/lenta/digests/qa-digest-8/>
 
